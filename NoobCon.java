@@ -1,7 +1,7 @@
 /**
  * 
  * @author Daniel Brennan
- * Razorfish - Java - Leet 
+ * Java - Leet 
  * Main program for transferring string data from normal text
  * to "leet" text.
  * 
